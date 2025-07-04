@@ -1,0 +1,276 @@
+Date,Sales Consultant,Province,Plan Option,Clients Joined,Revenue,Competitor Scheme,Age Group
+2024-07-07,Siyanda,Eastern Cape,EssentialCare,5,3965,MediHelp,26-35
+2024-07-07,Zanele,KwaZulu-Natal,EssentialCare,4,2904,Discovery,46-60
+2024-07-07,Kabelo,Limpopo,EssentialCare,4,3072,MediHelp,46-60
+2024-07-07,Siyanda,Limpopo,EssentialCare,5,5345,MediHelp,36-45
+2024-07-07,Siyanda,Limpopo,PlusCare,5,4450,Bonitas,18-25
+2024-07-07,Siyanda,Eastern Cape,UltraCare,3,3075,None,26-35
+2024-07-14,Kabelo,Western Cape,UltraCare,5,5710,Bonitas,18-25
+2024-07-14,Siyanda,Limpopo,PlusCare,4,4464,None,46-60
+2024-07-14,Zanele,Eastern Cape,UltraCare,6,7110,MediHelp,26-35
+2024-07-14,Kabelo,Western Cape,EssentialCare,7,7581,MediHelp,26-35
+2024-07-14,Thabo,Limpopo,PlusCare,2,1368,Bonitas,36-45
+2024-07-21,Thabo,Western Cape,PlusCare,5,4515,Bonitas,36-45
+2024-07-21,Kabelo,KwaZulu-Natal,PlusCare,5,3580,Discovery,36-45
+2024-07-21,Lebogang,Limpopo,PlusCare,6,4650,Discovery,26-35
+2024-07-28,Thabo,Eastern Cape,EssentialCare,4,4096,MediHelp,26-35
+2024-07-28,Siyanda,Western Cape,PlusCare,6,3714,None,18-25
+2024-07-28,Thabo,Eastern Cape,PlusCare,6,5388,Bonitas,36-45
+2024-07-28,Lebogang,Gauteng,EssentialCare,1,619,MediHelp,36-45
+2024-07-28,Kabelo,Limpopo,PlusCare,7,4312,Discovery,26-35
+2024-07-28,Kabelo,Limpopo,EssentialCare,2,1908,Discovery,18-25
+2024-08-04,Siyanda,Limpopo,PlusCare,11,9383,Bonitas,60+
+2024-08-04,Kabelo,Eastern Cape,EssentialCare,4,2584,Discovery,18-25
+2024-08-04,Kabelo,Eastern Cape,UltraCare,3,2643,Discovery,36-45
+2024-08-04,Thabo,Gauteng,EssentialCare,8,8144,Bonitas,26-35
+2024-08-11,Kabelo,Western Cape,PlusCare,3,3300,None,18-25
+2024-08-11,Kabelo,Gauteng,UltraCare,3,2229,MediHelp,26-35
+2024-08-11,Thabo,KwaZulu-Natal,PlusCare,5,4840,MediHelp,26-35
+2024-08-18,Siyanda,Limpopo,PlusCare,8,5896,MediHelp,26-35
+2024-08-18,Lebogang,Gauteng,EssentialCare,3,3183,None,36-45
+2024-08-18,Thabo,Limpopo,EssentialCare,2,1314,None,26-35
+2024-08-18,Zanele,Eastern Cape,UltraCare,5,4865,MediHelp,18-25
+2024-08-18,Thabo,KwaZulu-Natal,EssentialCare,3,2130,Bonitas,18-25
+2024-08-18,Thabo,Gauteng,EssentialCare,8,6632,Bonitas,18-25
+2024-08-25,Siyanda,Gauteng,EssentialCare,10,11190,MediHelp,18-25
+2024-08-25,Siyanda,Gauteng,UltraCare,3,2523,MediHelp,46-60
+2024-08-25,Thabo,Gauteng,UltraCare,2,1940,MediHelp,26-35
+2024-08-25,Zanele,Limpopo,PlusCare,5,4110,Discovery,60+
+2024-08-25,Siyanda,KwaZulu-Natal,EssentialCare,7,5747,Bonitas,26-35
+2024-09-01,Lebogang,KwaZulu-Natal,EssentialCare,6,4590,None,36-45
+2024-09-01,Siyanda,Gauteng,PlusCare,6,4974,Bonitas,46-60
+2024-09-01,Thabo,Eastern Cape,EssentialCare,2,1902,Bonitas,26-35
+2024-09-01,Kabelo,Gauteng,EssentialCare,4,2476,Discovery,18-25
+2024-09-08,Kabelo,KwaZulu-Natal,EssentialCare,9,8964,MediHelp,36-45
+2024-09-08,Thabo,KwaZulu-Natal,PlusCare,7,4256,Bonitas,36-45
+2024-09-08,Lebogang,KwaZulu-Natal,EssentialCare,11,12188,None,26-35
+2024-09-08,Kabelo,KwaZulu-Natal,PlusCare,8,5336,Discovery,36-45
+2024-09-08,Lebogang,Eastern Cape,EssentialCare,3,1869,Bonitas,18-25
+2024-09-08,Zanele,Western Cape,PlusCare,2,2174,MediHelp,60+
+2024-09-08,Siyanda,Limpopo,PlusCare,3,2910,None,26-35
+2024-09-08,Siyanda,Limpopo,UltraCare,4,2724,MediHelp,26-35
+2024-09-15,Zanele,KwaZulu-Natal,PlusCare,5,3865,None,18-25
+2024-09-15,Zanele,Limpopo,EssentialCare,5,5605,Discovery,18-25
+2024-09-15,Siyanda,Gauteng,EssentialCare,4,4400,MediHelp,26-35
+2024-09-15,Thabo,KwaZulu-Natal,PlusCare,3,2901,MediHelp,60+
+2024-09-15,Kabelo,Gauteng,EssentialCare,8,7928,MediHelp,36-45
+2024-09-15,Siyanda,Limpopo,UltraCare,2,1258,MediHelp,26-35
+2024-09-15,Siyanda,Limpopo,EssentialCare,1,913,Bonitas,26-35
+2024-09-22,Kabelo,KwaZulu-Natal,EssentialCare,4,3080,Discovery,60+
+2024-09-22,Thabo,Eastern Cape,EssentialCare,5,4495,Bonitas,36-45
+2024-09-22,Lebogang,Limpopo,PlusCare,4,4556,MediHelp,26-35
+2024-09-22,Kabelo,Western Cape,PlusCare,3,2895,None,18-25
+2024-09-22,Thabo,Gauteng,PlusCare,4,3212,MediHelp,46-60
+2024-09-29,Lebogang,Eastern Cape,EssentialCare,8,6544,Bonitas,26-35
+2024-09-29,Siyanda,Limpopo,UltraCare,2,1588,MediHelp,26-35
+2024-09-29,Siyanda,Limpopo,EssentialCare,2,1718,MediHelp,36-45
+2024-10-06,Zanele,Gauteng,EssentialCare,2,1914,Bonitas,18-25
+2024-10-06,Thabo,KwaZulu-Natal,UltraCare,7,6825,Bonitas,36-45
+2024-10-06,Siyanda,Western Cape,EssentialCare,6,4704,MediHelp,46-60
+2024-10-06,Lebogang,Limpopo,UltraCare,7,7784,Bonitas,36-45
+2024-10-06,Siyanda,Western Cape,EssentialCare,6,4026,Bonitas,26-35
+2024-10-13,Zanele,Gauteng,EssentialCare,7,6342,Discovery,18-25
+2024-10-13,Lebogang,Limpopo,EssentialCare,6,4944,MediHelp,46-60
+2024-10-13,Lebogang,Gauteng,EssentialCare,4,3312,MediHelp,26-35
+2024-10-20,Kabelo,Western Cape,UltraCare,2,1488,Bonitas,26-35
+2024-10-20,Kabelo,Eastern Cape,EssentialCare,3,3297,Bonitas,36-45
+2024-10-20,Thabo,Eastern Cape,EssentialCare,4,3340,Discovery,60+
+2024-10-20,Lebogang,Limpopo,UltraCare,7,7763,Discovery,36-45
+2024-10-20,Thabo,Western Cape,PlusCare,4,3988,Discovery,36-45
+2024-10-20,Lebogang,Gauteng,PlusCare,3,3396,None,46-60
+2024-10-27,Lebogang,KwaZulu-Natal,UltraCare,2,1884,Bonitas,60+
+2024-10-27,Siyanda,Eastern Cape,EssentialCare,6,6642,None,18-25
+2024-10-27,Kabelo,KwaZulu-Natal,UltraCare,3,2304,Bonitas,26-35
+2024-10-27,Lebogang,Western Cape,PlusCare,5,4705,MediHelp,36-45
+2024-10-27,Kabelo,Eastern Cape,UltraCare,9,10188,Bonitas,60+
+2024-10-27,Kabelo,Eastern Cape,UltraCare,6,4824,Bonitas,26-35
+2024-11-03,Thabo,Limpopo,UltraCare,6,6198,None,60+
+2024-11-03,Lebogang,Limpopo,PlusCare,9,5436,Discovery,36-45
+2024-11-03,Siyanda,Eastern Cape,EssentialCare,4,3184,MediHelp,26-35
+2024-11-03,Thabo,KwaZulu-Natal,UltraCare,9,9639,MediHelp,18-25
+2024-11-03,Siyanda,Western Cape,UltraCare,2,1230,MediHelp,36-45
+2024-11-03,Thabo,Limpopo,EssentialCare,10,6820,Bonitas,26-35
+2024-11-03,Thabo,Western Cape,EssentialCare,6,4770,Discovery,26-35
+2024-11-10,Kabelo,Limpopo,PlusCare,9,8676,Bonitas,26-35
+2024-11-10,Thabo,Eastern Cape,EssentialCare,4,2564,None,60+
+2024-11-10,Zanele,KwaZulu-Natal,EssentialCare,1,748,MediHelp,26-35
+2024-11-10,Thabo,Limpopo,EssentialCare,6,6216,Bonitas,18-25
+2024-11-10,Zanele,Gauteng,PlusCare,8,6464,Discovery,36-45
+2024-11-17,Zanele,Eastern Cape,EssentialCare,6,5736,None,36-45
+2024-11-17,Siyanda,Gauteng,EssentialCare,2,1230,MediHelp,26-35
+2024-11-17,Thabo,Limpopo,EssentialCare,3,2304,Bonitas,60+
+2024-11-17,Kabelo,KwaZulu-Natal,UltraCare,5,4790,MediHelp,18-25
+2024-11-24,Zanele,KwaZulu-Natal,EssentialCare,3,2505,None,26-35
+2024-11-24,Zanele,Eastern Cape,UltraCare,3,1962,Bonitas,36-45
+2024-11-24,Lebogang,Eastern Cape,UltraCare,5,5485,Bonitas,18-25
+2024-11-24,Siyanda,Limpopo,EssentialCare,6,6636,None,46-60
+2024-11-24,Lebogang,KwaZulu-Natal,PlusCare,5,5035,MediHelp,36-45
+2024-12-01,Thabo,Eastern Cape,PlusCare,3,2418,Bonitas,36-45
+2024-12-01,Zanele,KwaZulu-Natal,EssentialCare,5,3125,Discovery,46-60
+2024-12-01,Thabo,Western Cape,UltraCare,3,2295,None,18-25
+2024-12-01,Zanele,KwaZulu-Natal,EssentialCare,3,3354,None,26-35
+2024-12-01,Kabelo,KwaZulu-Natal,UltraCare,6,4650,None,26-35
+2024-12-01,Lebogang,Limpopo,UltraCare,5,4410,None,60+
+2024-12-01,Lebogang,KwaZulu-Natal,UltraCare,6,7140,MediHelp,60+
+2024-12-01,Siyanda,Gauteng,EssentialCare,2,1354,MediHelp,60+
+2024-12-08,Kabelo,Gauteng,PlusCare,4,3196,None,36-45
+2024-12-08,Lebogang,Eastern Cape,EssentialCare,7,7693,Discovery,18-25
+2024-12-08,Lebogang,Western Cape,EssentialCare,6,4698,Bonitas,36-45
+2024-12-08,Lebogang,Western Cape,EssentialCare,5,5260,None,46-60
+2024-12-08,Lebogang,KwaZulu-Natal,UltraCare,4,4488,MediHelp,18-25
+2024-12-08,Kabelo,Limpopo,UltraCare,3,3354,Discovery,26-35
+2024-12-15,Siyanda,Limpopo,UltraCare,3,3591,Bonitas,26-35
+2024-12-15,Zanele,KwaZulu-Natal,EssentialCare,7,5257,None,26-35
+2024-12-15,Zanele,Western Cape,UltraCare,7,8015,MediHelp,60+
+2024-12-15,Thabo,Western Cape,PlusCare,6,5778,Bonitas,26-35
+2024-12-15,Kabelo,Limpopo,UltraCare,6,4650,Discovery,36-45
+2024-12-22,Siyanda,Limpopo,EssentialCare,7,4711,MediHelp,46-60
+2024-12-22,Kabelo,KwaZulu-Natal,EssentialCare,8,9488,Discovery,18-25
+2024-12-22,Lebogang,Gauteng,PlusCare,6,6684,MediHelp,36-45
+2024-12-22,Kabelo,Limpopo,EssentialCare,3,2523,MediHelp,26-35
+2024-12-29,Zanele,Western Cape,EssentialCare,7,4711,Discovery,46-60
+2024-12-29,Zanele,Eastern Cape,UltraCare,5,5680,MediHelp,26-35
+2024-12-29,Siyanda,Gauteng,UltraCare,5,5435,MediHelp,18-25
+2024-12-29,Zanele,Eastern Cape,UltraCare,7,5978,Bonitas,26-35
+2024-12-29,Lebogang,Limpopo,PlusCare,4,4132,None,26-35
+2024-12-29,Kabelo,Gauteng,UltraCare,9,7839,None,36-45
+2024-12-29,Thabo,Eastern Cape,EssentialCare,4,4760,None,36-45
+2024-12-29,Thabo,Eastern Cape,EssentialCare,5,5600,Bonitas,60+
+2025-01-05,Zanele,Eastern Cape,EssentialCare,2,1750,None,26-35
+2025-01-05,Zanele,Limpopo,UltraCare,6,7086,Discovery,26-35
+2025-01-05,Siyanda,Western Cape,UltraCare,3,3057,Bonitas,36-45
+2025-01-05,Lebogang,Eastern Cape,UltraCare,6,4224,MediHelp,26-35
+2025-01-05,Zanele,Western Cape,PlusCare,2,1616,MediHelp,26-35
+2025-01-05,Siyanda,Eastern Cape,PlusCare,3,2037,MediHelp,46-60
+2025-01-05,Thabo,Gauteng,UltraCare,5,4150,Bonitas,36-45
+2025-01-12,Lebogang,Limpopo,PlusCare,3,2409,Bonitas,36-45
+2025-01-12,Kabelo,Gauteng,UltraCare,4,4152,None,36-45
+2025-01-12,Thabo,Limpopo,PlusCare,5,4965,Bonitas,18-25
+2025-01-19,Siyanda,KwaZulu-Natal,EssentialCare,6,6432,Discovery,36-45
+2025-01-19,Thabo,Eastern Cape,EssentialCare,3,2784,Bonitas,46-60
+2025-01-19,Siyanda,Eastern Cape,EssentialCare,3,2748,Bonitas,26-35
+2025-01-19,Lebogang,Gauteng,EssentialCare,4,4572,None,46-60
+2025-01-26,Thabo,Western Cape,EssentialCare,5,3235,MediHelp,36-45
+2025-01-26,Thabo,Gauteng,EssentialCare,4,2768,None,60+
+2025-01-26,Thabo,Limpopo,PlusCare,2,1484,Bonitas,26-35
+2025-01-26,Siyanda,Western Cape,EssentialCare,6,6132,Bonitas,36-45
+2025-01-26,Zanele,Western Cape,PlusCare,6,4566,Discovery,36-45
+2025-01-26,Zanele,Gauteng,EssentialCare,8,7312,Bonitas,18-25
+2025-01-26,Siyanda,Gauteng,EssentialCare,1,1006,Discovery,36-45
+2025-02-02,Lebogang,Gauteng,EssentialCare,6,4950,Discovery,46-60
+2025-02-02,Lebogang,Limpopo,EssentialCare,2,1240,Discovery,60+
+2025-02-02,Lebogang,Limpopo,EssentialCare,5,3345,Discovery,60+
+2025-02-02,Siyanda,Limpopo,PlusCare,2,2298,MediHelp,26-35
+2025-02-02,Zanele,Eastern Cape,EssentialCare,6,6054,Discovery,36-45
+2025-02-09,Lebogang,Eastern Cape,UltraCare,4,2556,Discovery,26-35
+2025-02-09,Kabelo,Western Cape,EssentialCare,3,2865,None,60+
+2025-02-09,Siyanda,Gauteng,PlusCare,5,4205,Bonitas,26-35
+2025-02-16,Zanele,Limpopo,EssentialCare,6,4638,MediHelp,18-25
+2025-02-16,Lebogang,Gauteng,EssentialCare,3,1851,Bonitas,36-45
+2025-02-16,Zanele,Gauteng,PlusCare,4,4600,MediHelp,36-45
+2025-02-16,Kabelo,Eastern Cape,UltraCare,8,6272,Bonitas,46-60
+2025-02-16,Lebogang,Western Cape,PlusCare,4,3132,Bonitas,26-35
+2025-02-16,Siyanda,KwaZulu-Natal,PlusCare,10,6870,MediHelp,36-45
+2025-02-16,Zanele,KwaZulu-Natal,EssentialCare,4,3140,None,26-35
+2025-02-16,Zanele,Western Cape,PlusCare,5,3385,None,36-45
+2025-02-23,Siyanda,Eastern Cape,UltraCare,10,10290,Bonitas,60+
+2025-02-23,Lebogang,KwaZulu-Natal,EssentialCare,3,2037,MediHelp,18-25
+2025-02-23,Thabo,KwaZulu-Natal,PlusCare,4,3208,None,36-45
+2025-02-23,Siyanda,Gauteng,PlusCare,7,7357,Discovery,26-35
+2025-03-02,Kabelo,Gauteng,UltraCare,5,5890,None,26-35
+2025-03-02,Thabo,Eastern Cape,UltraCare,10,8340,MediHelp,18-25
+2025-03-02,Lebogang,Limpopo,EssentialCare,4,3296,MediHelp,18-25
+2025-03-02,Zanele,KwaZulu-Natal,EssentialCare,2,1282,Discovery,26-35
+2025-03-02,Thabo,Gauteng,PlusCare,3,2277,Bonitas,26-35
+2025-03-02,Kabelo,Limpopo,EssentialCare,5,4940,Bonitas,26-35
+2025-03-02,Lebogang,Eastern Cape,EssentialCare,8,9360,Bonitas,18-25
+2025-03-09,Siyanda,Eastern Cape,UltraCare,4,4768,Discovery,26-35
+2025-03-09,Siyanda,Limpopo,UltraCare,3,2469,Discovery,26-35
+2025-03-09,Kabelo,Limpopo,EssentialCare,8,6728,None,36-45
+2025-03-09,Thabo,Eastern Cape,PlusCare,6,5760,Bonitas,26-35
+2025-03-09,Lebogang,Western Cape,EssentialCare,8,6376,MediHelp,36-45
+2025-03-09,Kabelo,Limpopo,EssentialCare,3,2442,None,46-60
+2025-03-09,Lebogang,Gauteng,EssentialCare,3,3144,Bonitas,26-35
+2025-03-16,Lebogang,Limpopo,EssentialCare,5,4540,Discovery,26-35
+2025-03-16,Lebogang,Gauteng,EssentialCare,11,12672,Bonitas,46-60
+2025-03-16,Kabelo,KwaZulu-Natal,EssentialCare,7,8169,Bonitas,46-60
+2025-03-16,Lebogang,Gauteng,PlusCare,4,4508,MediHelp,36-45
+2025-03-16,Zanele,KwaZulu-Natal,UltraCare,3,2553,MediHelp,18-25
+2025-03-16,Siyanda,KwaZulu-Natal,EssentialCare,8,5600,MediHelp,36-45
+2025-03-16,Thabo,Western Cape,PlusCare,8,7496,Discovery,36-45
+2025-03-16,Thabo,Limpopo,EssentialCare,3,2997,MediHelp,36-45
+2025-03-23,Kabelo,Western Cape,PlusCare,3,2250,Bonitas,18-25
+2025-03-23,Zanele,Eastern Cape,EssentialCare,6,4320,Bonitas,18-25
+2025-03-23,Siyanda,Eastern Cape,EssentialCare,2,1402,MediHelp,26-35
+2025-03-23,Kabelo,Gauteng,EssentialCare,7,7490,None,36-45
+2025-03-30,Zanele,KwaZulu-Natal,PlusCare,5,4535,Discovery,26-35
+2025-03-30,Zanele,Gauteng,EssentialCare,5,5515,MediHelp,18-25
+2025-03-30,Zanele,Limpopo,EssentialCare,6,4284,Discovery,18-25
+2025-03-30,Thabo,KwaZulu-Natal,UltraCare,1,862,Bonitas,46-60
+2025-04-06,Siyanda,KwaZulu-Natal,EssentialCare,10,9730,Bonitas,18-25
+2025-04-06,Lebogang,Limpopo,PlusCare,2,1852,Bonitas,60+
+2025-04-06,Zanele,Western Cape,PlusCare,5,3930,None,26-35
+2025-04-13,Zanele,Gauteng,EssentialCare,4,3212,Bonitas,18-25
+2025-04-13,Siyanda,KwaZulu-Natal,EssentialCare,5,4105,Bonitas,26-35
+2025-04-13,Siyanda,Limpopo,EssentialCare,4,2564,MediHelp,60+
+2025-04-13,Thabo,KwaZulu-Natal,EssentialCare,5,4015,MediHelp,26-35
+2025-04-20,Kabelo,Gauteng,EssentialCare,6,4236,Discovery,36-45
+2025-04-20,Thabo,Eastern Cape,EssentialCare,1,707,MediHelp,26-35
+2025-04-20,Siyanda,KwaZulu-Natal,EssentialCare,3,2991,MediHelp,26-35
+2025-04-20,Siyanda,Gauteng,UltraCare,2,2322,Discovery,26-35
+2025-04-27,Zanele,Eastern Cape,PlusCare,5,3090,Bonitas,18-25
+2025-04-27,Thabo,Eastern Cape,UltraCare,4,2492,Bonitas,26-35
+2025-04-27,Siyanda,Gauteng,PlusCare,7,8106,None,26-35
+2025-04-27,Kabelo,Limpopo,UltraCare,7,5040,Bonitas,36-45
+2025-04-27,Kabelo,Gauteng,EssentialCare,2,1800,Bonitas,36-45
+2025-04-27,Siyanda,KwaZulu-Natal,EssentialCare,6,4656,None,26-35
+2025-04-27,Thabo,Limpopo,EssentialCare,7,8043,Bonitas,36-45
+2025-04-27,Kabelo,Limpopo,EssentialCare,2,1526,MediHelp,36-45
+2025-05-04,Zanele,Eastern Cape,EssentialCare,7,5670,Bonitas,18-25
+2025-05-04,Thabo,KwaZulu-Natal,PlusCare,5,5650,Bonitas,26-35
+2025-05-04,Siyanda,Western Cape,EssentialCare,7,7847,MediHelp,46-60
+2025-05-04,Siyanda,KwaZulu-Natal,EssentialCare,6,6522,None,36-45
+2025-05-11,Kabelo,Western Cape,EssentialCare,5,5805,None,26-35
+2025-05-11,Thabo,Limpopo,PlusCare,6,6072,Bonitas,36-45
+2025-05-11,Thabo,KwaZulu-Natal,UltraCare,5,3355,Bonitas,36-45
+2025-05-18,Siyanda,Gauteng,PlusCare,4,3552,Bonitas,36-45
+2025-05-18,Lebogang,Limpopo,EssentialCare,7,4291,MediHelp,18-25
+2025-05-18,Zanele,Gauteng,UltraCare,1,652,Discovery,36-45
+2025-05-18,Zanele,Limpopo,EssentialCare,8,6864,Discovery,46-60
+2025-05-18,Zanele,Limpopo,PlusCare,4,3392,Bonitas,36-45
+2025-05-25,Siyanda,Western Cape,UltraCare,5,4350,None,26-35
+2025-05-25,Siyanda,Western Cape,EssentialCare,3,2541,Bonitas,46-60
+2025-05-25,Kabelo,Limpopo,EssentialCare,7,7196,Discovery,36-45
+2025-05-25,Kabelo,Western Cape,EssentialCare,2,1492,MediHelp,60+
+2025-05-25,Siyanda,Limpopo,UltraCare,5,3140,Discovery,26-35
+2025-05-25,Zanele,Limpopo,PlusCare,10,8010,Bonitas,60+
+2025-05-25,Kabelo,KwaZulu-Natal,UltraCare,7,7742,None,36-45
+2025-06-01,Siyanda,KwaZulu-Natal,EssentialCare,7,6027,Bonitas,36-45
+2025-06-01,Lebogang,Gauteng,UltraCare,10,7850,Bonitas,26-35
+2025-06-01,Lebogang,Gauteng,PlusCare,1,668,None,18-25
+2025-06-01,Zanele,Western Cape,PlusCare,5,4780,MediHelp,46-60
+2025-06-01,Kabelo,Western Cape,EssentialCare,3,1848,MediHelp,46-60
+2025-06-01,Siyanda,Eastern Cape,EssentialCare,8,5064,Bonitas,26-35
+2025-06-01,Lebogang,Western Cape,EssentialCare,7,7399,MediHelp,26-35
+2025-06-08,Lebogang,Gauteng,EssentialCare,3,2745,MediHelp,26-35
+2025-06-08,Lebogang,Gauteng,EssentialCare,1,1116,Bonitas,26-35
+2025-06-08,Thabo,KwaZulu-Natal,EssentialCare,5,5565,Bonitas,26-35
+2025-06-15,Kabelo,KwaZulu-Natal,PlusCare,3,1851,Bonitas,26-35
+2025-06-15,Lebogang,Eastern Cape,UltraCare,6,4032,MediHelp,26-35
+2025-06-15,Lebogang,Gauteng,PlusCare,3,2565,Bonitas,18-25
+2025-06-15,Zanele,KwaZulu-Natal,EssentialCare,4,4224,MediHelp,46-60
+2025-06-22,Siyanda,Limpopo,PlusCare,5,3535,Discovery,26-35
+2025-06-22,Zanele,Western Cape,PlusCare,8,5512,MediHelp,36-45
+2025-06-22,Siyanda,Eastern Cape,PlusCare,7,8400,MediHelp,26-35
+2025-06-22,Thabo,Western Cape,EssentialCare,5,5200,Discovery,26-35
+2025-06-22,Zanele,Limpopo,EssentialCare,4,3344,Discovery,26-35
+2025-06-22,Zanele,Gauteng,EssentialCare,6,4368,None,36-45
+2025-06-22,Kabelo,KwaZulu-Natal,PlusCare,8,7656,Discovery,26-35
+2025-06-22,Siyanda,Limpopo,PlusCare,4,3308,Bonitas,60+
+2025-06-29,Zanele,Western Cape,PlusCare,3,2145,MediHelp,46-60
+2025-06-29,Zanele,KwaZulu-Natal,PlusCare,2,1842,Bonitas,60+
+2025-06-29,Lebogang,Gauteng,UltraCare,3,2274,None,46-60
+2025-06-29,Zanele,Western Cape,PlusCare,9,7371,Bonitas,36-45
+2025-06-29,Siyanda,Western Cape,EssentialCare,5,3700,Discovery,18-25
+2025-06-29,Lebogang,Gauteng,EssentialCare,4,4488,MediHelp,36-45
+2025-06-29,Kabelo,Limpopo,EssentialCare,7,6482,MediHelp,26-35

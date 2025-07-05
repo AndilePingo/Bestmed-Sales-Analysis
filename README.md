@@ -32,7 +32,7 @@ This project presents a sales data analysis for Bestmed Medical Scheme as part o
   - R-squared (R²): 0.63
 
 > 📉 Note: Modeling was intentionally kept light to focus more on insights rather than complex ML techniques.
-
+> View the full sales analysis notebook 👉 [BestMed_Sales_Cleaned.ipynb](BestMed_Sales_Cleaned.ipynb)
 ---
 
 
